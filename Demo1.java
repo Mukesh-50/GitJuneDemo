@@ -16,5 +16,16 @@ public class Demo1()
         System.out.println("Hello World 3");
     }
 
+    public void method4()
+    {
+        System.out.println("Hello World 4");
+    }
+
+
+    public void method5()
+    {
+        System.out.println("Hello World 5");
+    }
+
 
 }
